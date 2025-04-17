@@ -78,10 +78,10 @@ The purpose of this system is to support **delivery** and **pickup** services on
 ## 🖼️ Project Previews
 
 ### 🏠 Homepage  
-![Homepage](https://drive.google.com/file/d/1OXWkhpDKChoOD6I8-elSYWGGwz15DFId/view?usp=drive_link)
+![Homepage](https://drive.google.com/uc?export=view&id=19sK_vGS-QY-sFko7SlUWOtDeB8VFA-Wy)
 
 ### 🛒 Shop Page  
-![Shop](https://drive.google.com/file/d/19sK_vGS-QY-sFko7SlUWOtDeB8VFA-Wy/view?usp=sharing)
+![Shop](https://drive.google.com/uc?export=view&id=1OXWkhpDKChoOD6I8-elSYWGGwz15DFId)
 
 ---
 
