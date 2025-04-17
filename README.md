@@ -3,7 +3,13 @@
 This project is a simple yet effective **online food ordering system** for a Cloud Kitchen, built using **Odoo CMS**. It is designed and developed individually by a junior developer as part of a learning and implementation exercise. The system supports full customer interaction — from browsing the menu and placing orders to tracking delivery and managing profiles. The backend is managed entirely through the Odoo admin interface.
 
 ---
+## 🌐 Live Project
 
+You can explore the live version of the project here:
+
+🔗 [Visit Website](https://ramzi3.odoo.com/)
+
+---
 ## 🚀 Project Context
 
 The purpose of this system is to support **delivery** and **pickup** services only (no dine-in). It provides customers with a seamless experience and enables admins to manage operations efficiently via Odoo’s powerful backend tools.
@@ -65,13 +71,13 @@ The purpose of this system is to support **delivery** and **pickup** services on
 |-------------------|-----------------------------------------------------------------------------|
 | **Home**          | Hero section, bestsellers, inspirational message, and special offers.       |
 | **Login/Register**| Auth pages for customers.                                                   |
-| **Menu/Shop**     | Full food catalog with images, search bar, filters, and sorting options.     |
-| **Order Now / Cart** | Interactive cart to manage food selections and proceed to checkout.         |
+| **Menu/Shop**     | Full food catalog with images, search bar, filters, and sorting options.    |
+| **Order Now / Cart** | Interactive cart to manage food selections and proceed to checkout.      |
 | **Order Tracking**| Live order progress status.                                                 |
-| **User Profile**  | Update personal info, track history, and check previous orders.              |
-| **About Us**      | Company story and values.                                                    |
-| **Contact Us**    | Email, phone, and contact form.                                              |
-| **Admin Dashboard**| Odoo backend to manage entire system (admins only).                         |
+| **User Profile**  | Update personal info, track history, and check previous orders.             |
+| **About Us**      | Company story and values.                                                   |
+| **Contact Us**    | Email, phone, and contact form.                                             |
+| **Admin Dashboard**| Odoo backend to manage entire system (admins only).                        |
 
 ---
 
@@ -88,15 +94,5 @@ The purpose of this system is to support **delivery** and **pickup** services on
 ## 📦 Tech Stack
 
 - **Odoo CMS** (Frontend + Backend)
-- **Python** (Core logic)
-- **PostgreSQL** (Database)
 - **Odoo Studio/Builder** for no-code customizations
-- **HTML / CSS / JS** (Odoo website editor)
 
----
-
-## 📌 Notes
-
-- No dine-in option — this system is dedicated for **delivery and pickup only**.
-- All data is managed directly in the Odoo backend for admin users.
-- Designed to be **responsive** for both desktop and mobile users.
